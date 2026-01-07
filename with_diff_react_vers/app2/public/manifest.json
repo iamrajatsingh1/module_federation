@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "App 2",
+  "name": "App 2 with React 16",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

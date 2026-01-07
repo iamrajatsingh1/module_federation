@@ -13,7 +13,7 @@ function App() {
           backgroundColor: 'greenyellow',
         }}
       >
-        <h1>App1</h1>
+        <h1>App2</h1>
         <React.Suspense fallback={'loading...'}>
           <RemoteApp />
         </React.Suspense>
