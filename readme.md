@@ -26,8 +26,8 @@ Both scenarios are implemented, runnable, and visually demonstrated.
 module-federation-react-poc/
 │
 ├── same-react-version/
-│   ├── app1/   # Remote application
-│   └── app2/   # Host application
+│   ├── app1/   # Remote application (React 18)
+│   └── app2/   # Host application (React 18)
 │
 ├── diff-react-version/
 │   ├── app1/   # Remote application (React 18)
@@ -68,12 +68,7 @@ Demonstrates the **recommended production setup** for micro-frontends.
 
 ### 📸 Demo Screenshots (Same React Version)
 
-*Add screenshots or GIFs here*
-
-```md
-![Same React Version – Host UI](./images/same-version-host.png)
-![Same React Version – Remote UI](./images/same-version-remote.png)
-```
+![Same React Version – Demo](./images/same-version.png)
 
 ---
 
@@ -111,12 +106,7 @@ Demonstrates **cross-version federation**, typically used during:
 
 ### 📸 Demo Screenshots (Different React Versions)
 
-*Add screenshots or GIFs here*
-
-```md
-![Different React Versions – Host UI](./images/diff-version-host.png)
-![Different React Versions – Remote UI](./images/diff-version-remote.png)
-```
+![Different React Versions](./images/different-version.png)
 
 ---
 
